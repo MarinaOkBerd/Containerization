@@ -17,4 +17,4 @@
 lxc.cgroup2.memory.max = 256M
 ```
 * free -m
-![](2.2%20.jpeg)
+![](2.2.jpeg)
