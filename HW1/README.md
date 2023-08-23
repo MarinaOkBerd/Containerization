@@ -33,5 +33,5 @@
 * unshare --net --pid --fork --mount-proc /bin/bash
 * ls
 * ps aux
-ls /
+* ls /
 ![](3.jpeg)
